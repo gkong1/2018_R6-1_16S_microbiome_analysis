@@ -1,0 +1,529 @@
+Feature ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Confidence
+00e2a4692367d37329fb9e908285f0ef	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.9983527473
+0286bafc778be7760f0ff3e9199f9a25	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9655334275
+029fe291ffdcefce6a1c7d0638b32720	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999998643
+037a29e02b3869580f26eb1ee864bee2	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	schaedleri	0.999999958
+0444decea04265abf48bcb720b69520e	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9884166168
+04692910cded1dfe19a643df3add7932	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7101202747
+04b2416eedb298d15b0466c204905b20	Bacteria							0.9970636078
+0626de7503c8146cfb3e9812dab13933	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9986995987
+0643b14e2a83990419336aa49cb3b27e	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus		0.9999892933
+064e3a4e42018bd008b3b5407633751c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9989268846
+07610e513315d3f9c82ebe73ef886e95	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.768103104
+0820b82d14921828dfa20b56242a48c3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999302036
+088394da3d7c5cbd1ee7fd629e988555	Bacteria							0.9985021779
+08c92baa0290e451ea255f6020e44739	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Paraprevotellaceae	Prevotella		0.9118558595
+095f798bbd3b95e6d01ec0ccda2dcedc	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9983725177
+09afbe624f0052a0ec747022227a78eb	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999999482
+0a287bc1ce690fe0520c9d0cbad2cc64	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.9935305845
+0a62e2eb4acf7fd70cad5878f0215a6f	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		1
+0b1e4030b63b5cceeebb601d78c02a5d	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9998848212
+0bff82b6e3ae25ec261841e06305bb21	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9921658492
+0c1f862c50a5580967d4bb76cb7053e5	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999338367
+0d08f33d808f4e581ba4bbddbbbb13ea	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.8742802845
+0d0974ccef9c30a10e88b6c32144ed58	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8546511495
+0d183f39d90a67d33f4b950837408e4f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9976440471
+0d86650fe5e398d9b13a89fa25b6a69a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7650014958
+0da5e2fc09c9a8837a0424004a8eaabf	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7184753718
+0dffae273072cfd3ce7e2dd66b26c353	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8111102784
+0e7cd93b8079892022b6ed4b62810146	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8041729947
+0f56b92256ad85b9703fdfdf06a35518	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.7569572146
+0f6fba43ca32daded7d51c3b659d2a76	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9653738428
+10bbc9af32c326624189132e97dd410c	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999590268
+10df701d47286a6ed30c544e219c87f4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999999838
+1141f30eddb626a3a1151a19445eadfe	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		1
+128c0b5518b8f39b1f77990f7524dbaf	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.8952286913
+1322e2f9749e154c198f51aab5a04f62	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.9906524622
+1442af5b43d77ad0cd6b73feea01af87	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.987781478
+145ebc1f8ab3b2896eb631008973c0b4	Bacteria	Tenericutes	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Anaeroplasma		0.9999999994
+149c244a1699bc322b5fdb40f2490a40	Bacteria	Firmicutes	Clostridia	Clostridiales	Mogibacteriaceae	Anaerovorax		0.9697500611
+1577b23440d27bf8038f0e80aefba07a	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9577485556
+163c72d248fa0ef9d229a942d8bd1c2f	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999993698
+16487eacf936dd400e0cc10bd3e73cc0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9871872064
+1675d4f1d32961eefa935ad3d877ebbb	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9825352294
+179e04a2a93df5426bdd83e3e2e7ab2c	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7058026342
+18e51e6df252e1a27af2e7b90be9301b	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9974426119
+193d188335b4942d0ab4b77deb7b7d4b	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.960531243
+19b096e68b374cc0793910367d9c1395	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9819745441
+1a2ec455dfbf41a34c9df4d8ed6c271a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9775575773
+1ae19117308e0e8165f07e98f6ee3171	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.999474547
+1b8176a16215497e9533a2046e678168	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999981059
+1bb5d947053d69ffec127c749464b488	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9531868486
+1bbe6de3d342db2a888b2822107e3e29	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7628269295
+1bf2082066e0a03f6944662de74845fc	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Shuttleworthia		0.725245242
+1c8f10c6b2fff0454efedcb579d80f5b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999962469
+1d8c7eeed397b34bf933900cbbd442ff	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9611936868
+1df11f954c5739e51313d49fa39c00d7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9697200451
+1e39b3c5ca4fa6f09768b82ebaf2f03b	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9993843855
+1e4a5efee1e3eafdc34bfeac43b6639c	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	reuteri	0.9938036824
+1e78c3492f7a655d29a22467860131fc	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9850996659
+1e7ffc928f422ed3123ecc37c4cde3c4	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8545232383
+1f1f2b8e38201b112d19c822be96c984	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9109884291
+1f26620dd4cb035201e9f81ad44c7fcd	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9998300961
+1fe699d84aa8004586c52c8c65968409	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7825421662
+2003d1ec28ce8c309e0def69a560e6a9	Bacteria							0.9936873216
+20a0024d7a4747cf04241bc45ddea4ca	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9938257035
+2153abc69cddf1304f8bfbdbe60fb1b0	Bacteria	Firmicutes						0.8141315012
+21649fb82bff23432fd4467b2308509d	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7237741676
+22026223740aa4b6376f724986d7bf12	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.982431166
+22778adf788733c37bfa5fa55688dfe6	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999999943
+23885d56307b44852560d856e1afb27a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9728036702
+23f4c333bc50c5cf2c0f20855d049cc4	Bacteria	Firmicutes	Clostridia	Clostridiales	Mogibacteriaceae			0.9999913675
+25def15fb42bed6855ede4893d27a21d	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	muciniphila	1
+25f9108151677e3ca5099f82f83d1672	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999991627
+27a371fd8b96cab918e1a925e9ab12a1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7141306579
+27e5a0119bf0f99608903f79f07ce884	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8772421139
+28a6b6108cff1310e90394cdbf3e2e4c	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.99998167
+2973955c1aeb3771fa3c1adb241b302d	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7403369025
+2992c3fcfcf38bd669c9edd847d7f230	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9992007535
+29c89215e92fdd70baab81756382bcee	Bacteria	Firmicutes						0.788557011
+2bbc24a32486bb69233c7e2194e8cb05	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.839739555
+2c1783758f980294621489a913a2b3b7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	formicigenerans	0.7244918092
+2c2fea2e525150fe59bc9db32bbace18	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7516768334
+2c6dfb7a10772590ee902b361a4d4eaf	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999438228
+2ca34059456360f4888964a7f0c0694a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		0.7264315178
+2cd6512f8e611e575850706a04d5d278	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9998432139
+2db10c53c78527cfba5caa44da949557	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9713487068
+2dd0f0747ffac592fbfdd61f632cb87a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.948893831
+2e3c75c28bfd30a1e975951e8a4d586d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9979997482
+2e8d008f50dadbc5669e0a605fee6ffc	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.850067178
+2e8ee5afc42806e5858ada5405f72f00	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999706245
+2eb7bab7b0af702e4f18358968a8f7ff	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8273422983
+2ef57dab754f7e1cbcdc71321a2eb475	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter		0.9999999014
+310e1b0125888ac49bf01d4fc73500d5	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9996267186
+316518570e0f5f2e80e9faa739ba61c3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9990146336
+3195fc0cedb1d1f97e0cd8baa87c9ddd	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.7365595442
+31d3907c0249d62c68eff5f0c0fba5bd	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9018676005
+331fc977cac4e84f73ff14b516461247	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9949730456
+333eeb7c3b5da675f6404bcd54185cd4	Bacteria	Firmicutes	Clostridia	Clostridiales	Mogibacteriaceae			0.999807795
+339c217c21337357bb07dd8e952fc736	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999989413
+339edbbb7f9a5e66f3b15b5c1e8584a0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.8886899484
+34676f35315ec89c0c6ca942cdf19783	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	muciniphila	1
+34948188149de76cb8db67376711ff5a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9998301861
+349d4f244ee16ad41bf691740151b6de	Bacteria	Firmicutes	Clostridia	Clostridiales	Dehalobacteriaceae	Dehalobacterium		0.9999993388
+34a8f64c050eb72ab8e6bdfecd7bbec1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999973117
+34f5e40f9fb2818d0692b993e5c9b923	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.703985614
+35010999c57dad98a671073caa37bb86	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9990388557
+352361c531d7ff65424fcb273ce41cd3	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio		0.9900125287
+36402f6154239da8ce422da64a0bd247	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9669167758
+364506be6c9449c5f49eb48125651017	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999969648
+368174ae42dcd28cf26838c88105ff1e	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.999320908
+36be43c248f8e4a7b60a4739cd8dd932	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999346251
+370f2cf2716730b0f3642c5e3fadd6c1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	reuteri	0.989209695
+37d748b0279fd55ccd64b148d0d9035e	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides		0.9999935421
+387717ee717e81644a3dcdfc28d0f9d3	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.8550132584
+388a3f608a968be8a363ba7865c52773	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9981208521
+397731e49550c271ca821c5d04dc97d4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999998901
+398fcb7395db32c5e81e19d8b53d53f7	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.8994219252
+3a9a1e63391182d1fd4ee4d8fcedaa4a	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9998631749
+3aa40e565f980baad9e4a0c574c2c5c2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter		0.9999998179
+3af2197bbd2daf9be46127b58559c91f	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7447252352
+3aff78260a59b8706e4e7480f813ddfa	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9936063935
+3b3911ebf489800d79dfdeae7478d9aa	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8531096759
+3b5401345151054bcf7c51e27b714513	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9999730872
+3b55de6ff3515692a992b7596724486a	Bacteria	Proteobacteria	Alphaproteobacteria	RF32				0.9999947193
+3b95e0f1591eaba498597929fe306cc2	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999533628
+3bb2345e75362cce7a3b307870370f33	Bacteria							0.9916312479
+3c7d430222d68c68a505a56036eff624	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8473314224
+3c92275b64192f31a190c4d6b60001ba	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella		0.9897941719
+3d5e613f198d00d7b8e1c46e313d0da5	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		0.9999345171
+3d668e41425d59778c96b83f922ab851	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9939635292
+3d80710fb18afb303baf125753fd7ac8	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.99999972
+3dd793c274500634f52d87b4a73fc3c4	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9711787643
+3ef481b51807741d507a59240c10db72	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9968032666
+3f55a8ca784ae7190790023a30cd859c	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides		0.9906809984
+3f9392790fb73a9e460eadc945ce0701	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999957189
+41b518f17927240fdfd1465cd351afc4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		0.974972948
+42529b81e7d84012ab16cd71041e67e1	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Anaerofustis		0.9999975477
+4270f18e5d233d60a9e9f022d634b07a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9712719014
+42b8e4f5c4e20443eb73d35ef10960ac	Bacteria	Proteobacteria	Alphaproteobacteria	RF32				0.9999739817
+43f9dcebb22bcc6e3c64a3b9420c903d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999079784
+4468ae469c1cf843bb4689aa493eecaf	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7993198885
+4803a13912b8c94aa1d22f81fecf5a8f	Bacteria							0.9980999206
+4817495802d8bb79fa4b4e96122e079a	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		1
+48b9f73a2fd0b7da5f66a6c43d6582bd	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7451246992
+48e90110fe602bdb336dea543e3bbc9c	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7147619914
+496dfdc9b508213f9190c658f2271a45	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999999547
+4a7e112e83765c78a879f6a82869ad87	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7541004151
+4b1c99e368615509c0e6f4d3963b226b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9998212062
+4bc5fc4383f41f5c7b98cc01b6f5c309	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	muciniphila	1
+4c00f2c0e1519ea1c51456f79d27c5a4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999999776
+4ce5737e69c8373fe15e027d0ed93eb1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999422594
+4ce7fc0cd8c014fb6e0a8d3b1d01ca6b	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7085551977
+4cf00a4bbc806469f8adf3206829b90e	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9715808321
+4de9c7593d2df221b24f6df130de40e1	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999980876
+4f8a6c9054c5833005aae4d2154d489f	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9137178306
+4fd5e4fab1104517574e5fcb9e2ec4e3	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9969226457
+50e83f8715190175a5218b76141a2510	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.803066984
+5269181ddec0b7d541daa2f9b582922b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999996294
+527dd0640be2156a741a3b900eed0de4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999990572
+52c514fbc0c50090bbedec4205f4c64f	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9976538931
+531226013a67083638da99eeaa6c8b89	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9994510984
+53218fd1661624eba59f051267b0ef20	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		0.8486070203
+539ca948741b9a713eb781d4281b23fc	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus		0.9999999878
+53d1949b736adbb12aa02ce4a5481ca3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9286900972
+53ddfd946663b10fed72508ccccae322	Bacteria							0.9984666481
+545fbaa7a2296990169c2f980d4ece15	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila		0.9991666254
+559ba803e27372fd90949df7276d7b7f	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	muciniphila	1
+563d7689477443e0afcea8355b9ce704	Bacteria	Firmicutes	Clostridia	Clostridiales	Dehalobacteriaceae	Dehalobacterium		0.9999879669
+56fae2adf28d25802a31bba52bcb6e3b	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9989555988
+5707b18357dbec4a2372f79440d58f58	Bacteria	Firmicutes	Clostridia	Clostridiales	Mogibacteriaceae			0.9993167181
+58f039e9b3e1539468bc83989a0e824b	Bacteria							0.9949572692
+592d811b7f858f4a96a31d571feb0cb9	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999999503
+594de23e3fd972a2867119ed1a8ae9ad	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Sutterella		0.9996553046
+59b17c1cd2e1fa86064869f5bdbea8c4	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9190412817
+5a5e04b6cf0621e00d09626c36ee86d9	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999999233
+5a74d6b5e44b89fa48b595cfda11382d	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9620595702
+5aeff63377cc03a5815fcd5a0ee731c3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9524397069
+5b1750668beb749e3c44200ee94d55c6	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999978842
+5c469d10e27fa3021a67579608850ebb	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9999910084
+5cbd2acc987546e18a26cd46a8ee639c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9828779531
+5cfa7f79b7e252a73fa069c5b2c957bd	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999984775
+5e19ddf81be82806da1a1601875f9795	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9384458737
+5ebb5c797da972dda226f95b40d5b934	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9505508503
+6011623532dbf43c1f3e1c9a0da57418	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8587198577
+6028241ec2c53e13c65d4f34acf8252a	Bacteria							0.9964321546
+6080c38f3a6d846ec7cf86c8f942d38a	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae			0.7081443542
+6093b83c7e9b29eb85fa78cc6014466b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.999970961
+6151dfdae0ed34dbd2b914958da974dd	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		0.999928646
+615685b7f03118021a8c7e6777882ea5	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9987279071
+61602441fe4b6f2b36be40c311fa9cb3	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9187493308
+61f36b02d16bd60a33617b1eaf571c89	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999952774
+62c2500c7c10f9b15af76d633cd7ae2a	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella		0.9937533486
+6301e994e8d9b26ea37c3db191d5b325	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9994920254
+63298803ce9c9b6930afabe42a3c98c2	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999993732
+63a37b4505b068922f8d546e258e379c	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999999743
+6425a1b20590da5d96746217ea3fe698	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999805802
+64f6aa54a3b8c87bd57a73461f6b0cc7	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9040072956
+655235da2763f5e61fcd9c28c68b3e92	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7998058497
+656326d89791c753746563843909ebf2	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9999958657
+65e11acf3bc9b4cbaaee58794e2f2ec9	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8406749773
+6631962028deadb13ab2ab64b17297ff	Bacteria	Firmicutes	Clostridia	Clostridiales				0.924017787
+66680207458c0b586aa60a24cf49bc97	Bacteria	Cyanobacteria	4C0d-2	YS2				0.9999999816
+6689cc067754fa14964e70c77ae9ce0a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8325699682
+669c92c4b1a054e277dbb27375cba06d	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9771903232
+66f5ca5e99e5106d4604200bccf4d7b9	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9989748939
+6797f125d0f2b270677f6cc8b3d2d018	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Candidatus Arthromitus		1
+67db2b5dd7b661c6101b3241790688a5	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9969182983
+68231471ec9079e54e760da96273437e	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9791430785
+6827ea7a084ac684eb16adb10ea88600	Bacteria							0.9966839448
+684e36f4a4ca5d922ae44c53c5fbf386	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus		0.9999547999
+6937c17f6728525d01cb5eb740248860	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9937773401
+6968c232749a19dabc97b18ebb4aeacf	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9046942394
+6974c9b29567f1cfcd613c7c67ffc63a	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.8940674157
+69c7a8c4b56e49365fca134e9a04e47c	Bacteria	Firmicutes	Clostridia					0.706147001
+69daba25ea14c6a21a7bf2fcc5fae18e	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9821401879
+6b82039c0bbe4bf49e8740d8ef28aceb	Bacteria							0.9951871041
+6b90b86f5da836f13c0ee2f67132e12a	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999930726
+6ba2467145ea8cbd34de0d351e096fa7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7563694631
+6bbaf2d026d54c61f24b5c5483e56842	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	distasonis	0.9999839569
+6bc890a2012bca332b9d5c43905d1aae	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999996518
+6bcaa78ae05e92c1117aaf13b36f2f21	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7097153919
+6bd5500880a7e0958d5ee478eb1842fe	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9885995681
+6c8b98cdb4a6d1b35f9aaf3d26bfd735	Bacteria							0.9959647618
+6e8fabc5251039e4ace65b9b23633432	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999999052
+6e9f96bf2b9f156dfc370c597b377191	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.999332752
+6eedc970cde03e4600060ac5a2587400	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9994465173
+6f61e6284f7869995c639446575abf4a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9502935008
+6fec2375317ffe174677897350105f58	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9071640645
+703b22f3084bf027e3cdba4edc15eb9c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium	piliforme	0.9311159354
+7069d1ba735fd4d5199050b4c100bea7	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9542233792
+717f03bd4640b9441c75a0ba664e5513	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7712367464
+71ab5a8f7b6e36f8b81b4b927e9d9e81	Bacteria							0.9962152969
+72b927243c06df7333ec446473855b4b	Bacteria	Cyanobacteria	4C0d-2	YS2				0.9999997518
+72d6ddeb60679dd2e2844fe039e1a760	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae			0.999976473
+72e05842827c7584905ea88d57d2985f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9991558874
+7463f4eb258b448ef13c9d537ced9cac	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9847412591
+7466c4456b5c76fa5057a2d26981b74a	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999995
+748c2adbeefb058be9895552568c6940	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Moryella		0.8662446581
+74a814065277ed26e606538c1d4898d7	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9952844127
+74d34e925b60424357bc79c13bf3ea8b	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9838347763
+750b0687634ab4727634edd7a2742116	Bacteria							0.9983765238
+750cf8f7e1e65859023896e927a40b49	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9996627843
+7537846e571d35d8bb2ae1445138df90	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9995208665
+769572afbbbe0c2488408c286b40678a	Bacteria							0.9957441673
+76ac4f139b257ed4238b069f63f691bb	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium		0.8163668992
+76e299ccb38c3f559204729727d6f101	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999852921
+774eed8e5e8bd688c6a2fe03743277fb	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9960746641
+7773588b3cec0567fe4b6b78ee85afa5	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		0.9999399766
+786dd028d69f88903aae9892ffe12dc9	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9916628208
+797ff21c783f0b14486e86a7e007b554	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9575179807
+7a08a37eff6224b432a537907a0cec2c	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999994911
+7b15c3bd0f23cb652c8f96bb85fbc464	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.999999589
+7b2758b79ea93bae96664ca0afb33a9e	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.999998832
+7b37c42973e6443da52b1480d3dcf99d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.986051098
+7b856fdb3c5f6dabb2c4a55226548fc9	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9958056746
+7dc46beae6fa78ac2a820a02c468bda9	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9939429467
+7e1f9607285a304d717cb8e5006d4c23	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.7414039096
+7e2a6f0f09bcafba79b5d22a543e589b	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9905239
+7e30d63f0397880a7cd77896128361ab	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales				0.979376188
+7f3f2047bb8da06e4776cb75b23d31bc	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9248806049
+7f5ccf208f039f84a83212610f2992a0	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium		0.9753552034
+808a9312ed67a1434e9b1d6ed3dd6105	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7005586967
+80c34998585bb045bd59817290199190	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999560481
+818562cf52c91a824a97eec5175f6fe4	Bacteria	Tenericutes	Mollicutes	RF39				0.9998804238
+81bf0f869e26b60c1d88c2d9df3079ed	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8639295202
+8238e39e4e969bf178cb2a97371f1e9c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9685356715
+8308bf23e065d2fe43d610514e72d61f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9242382199
+847fa5c2b3eca67a001b1e1954ec2051	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.999985646
+84bc8efc6e166ec9be5759fa8c3aa4d1	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.8924899638
+85b29de75f1c8f5c6596c1e9b5ce3a04	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9994776024
+85f1c66d8e965ed387d0a17887a1ad20	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9944975245
+862f918acd63eeace039314ff2263a39	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9024149575
+8652675b6d806e787e02e018743c212b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales				0.973513562
+8695eb2034a4a15c59e92da6ddf309fa	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae			0.9469558768
+86a5469c5fae206d8af2cf122b1f45a3	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.772205858
+86d5969e793e9a3edd31a2313d4224fb	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9746852663
+881b85a378927fa7c9a9e7c11c199e80	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9995992092
+88644825ec935d823cf2d73669b64bb4	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae			0.8063028911
+88a13bdfec3962b292c5ac6d734c73f4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999992623
+890bf81ef1d5c29cdfad4bc71f6658f9	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9591384899
+89363c2c5b0a7751104ab4f1557eb1c2	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.8374491142
+89bebe18fc0fbacc6d8416003b0d2741	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8720490833
+8a5d86863905fd2220208e88b8c97f46	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9907734907
+8aa70d0c06e8da0b4c0ea2eba6308983	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9909451944
+8aaa38eae526216e2a1a7ec15a69acd8	Bacteria							0.9981915567
+8ad404978feb9aa55509ecb22e6aad46	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999208022
+8b09479819baf0c28f96ce11b044c2f5	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		0.9999063648
+8b1bde7a5afc731f96d200f62dec4b9c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9996029226
+8ca95c7c127cb4b0ec7eb8a2c2b906fa	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7914929955
+8d0b215f165609c7fbf4f05f16401c65	Bacteria	Tenericutes	Mollicutes	RF39				0.9999998942
+8e1647c86092bfaf2243f91f0400366b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999998002
+8eab46739813eb7c237638be711e8a24	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9827841939
+8ec79853a4a88bc6b81f94ab523566b4	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9835885844
+8f671e6cc58117b2aec73341c0bb5dad	Bacteria	Firmicutes	Clostridia	Clostridiales				0.996118443
+8f880452d98f67e430f8ec54099a347d	Bacteria							0.9950717314
+9028bd5ae8bbdcd494cf0c71c96a30c9	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9833585881
+9056dd6768c29efe7d8d5f3f3376ddc7	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999782235
+907ceab78e867d765fa360527608efa1	Bacteria	Firmicutes	Clostridia	Clostridiales	Mogibacteriaceae			0.9999922394
+90949bb38f58e92949ab8504aff01df1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999456812
+90cca7f47b780ce9659cf97e703cdb69	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9566918302
+90f9c784134deda44c83bedec3349fc6	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9890925606
+9122e867c908301e783c5ce0c3bf12e0	Bacteria	Firmicutes						0.7026322612
+914ce91b5353311ee0d2f286399feb02	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9997959418
+926708e33d1ebf1a9da757f78c673190	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9995817734
+92ae272884c88aa3be9a5800f2836740	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	C21_c20	0.9999999243
+92cb6851e70b44f4050703ae32081c96	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9001871037
+93f48b5bec6540178be68a39abb52944	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9079173437
+943f77c04891ac62d38e6d3d92440c13	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9996880706
+945e28c5be23b42f028eb26245cc414d	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999919532
+96c2151f4b12e51530b389178a80d440	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999962414
+96eb875330e760e188ac8c911f2a4dcd	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7752453229
+973883205d558dd6e69aacb73008cb07	Bacteria							0.9975202051
+9782bf97743920dbfad3a3a1cc0deeec	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9986863273
+9797c3d45ac44f3e456093b79e9bfa2a	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9005315823
+97bada86980a67de484bfeecb8ad8326	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9995616461
+985bb91bc4589412f59105a3fbf3eadf	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9824455314
+98725c11aa32b15374c6bc4f555b2f7f	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999997913
+996573e4a99f597488350eb45dd363e0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999415977
+9b502f05e2f79c120d325d6a1c8083fc	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.928126654
+9ba1632594ffce258a6d7ae7a0e65691	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9391052806
+9c16363cacd0ce232469c37d8a89466a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8727776456
+9c2061f8bce467b2f67b6171fdb686c3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9998664502
+9c8a72a5a1ba4d23a8e06b454305b5fb	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999897223
+9cb9e1eae29d219c9e3c7fa4c0089143	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999923378
+9d062a61764816fc5e332a2e32acded6	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999978915
+9d4862d621662414933af7585a2d6d8c	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9985233138
+9d7d37b788713c8bd97c9094a8ce732b	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9931251108
+9db67f5da0865507e35bec77676d5895	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999925224
+9e470b8db1cfedb57e350146e48f9a9e	Bacteria	Firmicutes	Clostridia	Clostridiales				0.999464386
+9e79f50483af44379567cc52b77bed72	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.891765317
+9e81e567e277f04cb024ad3d32b26749	Bacteria							0.9971111243
+9f17479185681627eb3229081ff4467f	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9994949814
+9f85eb683ecfe3d95ac1664056c3cc00	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9961672451
+9f8e0a9b0a1805ba3252972d33c4a089	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9258609583
+9fe56be12f61aba3969236b8cfd1712a	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila		0.997931155
+9fe6b4ce082e3e5e4d760b6db9e974f5	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999998119
+a12704bddf4bd366c29473d44b5c1139	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9984873786
+a1fa16f2db38108ce94abe90af7b13d8	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		0.9998992978
+a2181dd1f923a9ce6e9df3ff6c61f4d2	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.7403324444
+a2a597aa98c622c5f984b3f302ed17d4	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9996572702
+a2ff1e0b400a09094f7fe86b8f08e49d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9520780922
+a3b1814264ec5b0153b9124922f8fc37	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.989876942
+a401d8b32d4bb83ae020fc626b454b98	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9472310297
+a41fa5e4faa8b4b5d585d4a49b6952e9	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		0.9993853825
+a4c61d535793417f6f6ab9eae2463f12	Bacteria							0.9978472769
+a56953545b7bc750ba23d86b92808396	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999998462
+a650f349bbdffb95b3624519d1ba72b8	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		0.9998043829
+a66dd8d31584930c2b0f811f572dddcf	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	distasonis	0.9999892089
+a73d0f87d181d3de4f6ab7cca8178ebe	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8249272109
+a7e4148b858fd66eee6949bf39c699a7	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999669517
+a826d2894dcfc0e6ecde62f86c2d272e	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9999753769
+a9d6992acc5bce457020b62e250ed07c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7497992442
+aa32485fe66718af2e28f700fa04af83	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8899605815
+aa7bfc236f3638c5ba08640267f1bbf9	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9883344379
+aa87c95d135ab549b57ad13359a36be5	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9686574067
+aada584ca5fed4b88144bd78a58cf976	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9996349552
+aadc066c771a04b93dafaa40a8f7dd1a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.951301215
+ab0b78445a54df766c12448fa0ad6d49	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9771976841
+ac3d76e52124b25cd48e4e6c0f712d0c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9998224131
+ac5402de1ddf427ab8d2b0a8a0a44f19	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		0.9998794135
+ac84ffbad1b183ca472fe782f385100a	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9616832566
+ae4fe244f7b77be6848aeaf132b6b724	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7701309734
+ae5ca310f50239f81d490e61edb9bd28	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9807592914
+ae6c677ba00083b8792d018fdeafdebf	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		1
+ae7ae3e677153fac3b5e95e2a2aca9e4	Bacteria	Firmicutes	Clostridia	Clostridiales				0.74487586
+aee0d6f2626271eacf89d2e803440657	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999997229
+aee3699ba3b27f13c8a88919d46aa72c	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9894832454
+af97cc81d4c1173f7b0fb89302ff790d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.996481266
+afa1da45d4a7ec83f10a3b990ab36445	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.8485434948
+b0a528871e7461bbf8dfa28fd56839da	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999993358
+b0a5cf49eb335093c26cd2649fb7685a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9073282681
+b19ae8a75dd67cbfd20f896b6cddc0f2	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9985349323
+b27900683f78ffffe3efe328fd473083	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.998404309
+b347c047f92514e7459a800f31b8a0c6	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7093685997
+b386790f27f9977d0471b969505aa6e8	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999930779
+b3f1463bd372651a891378c3a6cddafb	Bacteria							0.9960831969
+b3f936e6cbd2c8508bc98bb304bb37b1	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9070210956
+b3fef1e26b7b6ac20847ede4da68547a	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.999477322
+b467eede8c471ebc9932bfc67110b1be	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9993038051
+b518c4898e9d39ddb3d865db081618c2	Bacteria							0.9985652338
+b547ec55ce223f68b3022ae781fd2c8c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9751636456
+b54ee444b20674aac889ede17b4ca2cb	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999998723
+b5d337ff926f39e64e998aa4a116f7f8	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7848823833
+b5dfffbdf766b0abcc59c2b84315bac6	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9999172512
+b637b946de292a35e911dc1bdd9f5ddf	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus		0.8180241804
+b66ec73594dc61765c499f1e1fe5f716	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		0.9692704392
+b67300d6c9ffdddfac3fe8b59da79e13	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9989775186
+b6985598d3f4a9b830bbe1c6a665f5fe	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Sutterella		0.8733882767
+b7822602c933038a326f921a25e2430e	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9977516765
+b79f2f76cd81e5439d08cfffc0ef69fb	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	reuteri	0.9937051161
+b930d6802dcff03f0087cf3ed5cb061d	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.999996266
+b98d04b1bf8138c1ada0bd02c4e2676b	Bacteria	Firmicutes	Clostridia	Clostridiales	Mogibacteriaceae			0.992523616
+ba53aaf1e742e7d9bf5d5f336ca52ca9	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999371904
+bcdc5d377a1b0437d0a42184595c9841	Bacteria							0.9972115211
+bd2acff8377b7354fa5239f72479d003	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9978648118
+bd3cd4ee1a630c6d8aa58baf268edb7b	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9798456557
+be084311ffa73906dfc000176806be2f	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9403365309
+bf35cc974cf3b6cd1e21b71c51d7ec59	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9966311306
+bf3ffafca4e62f6a0980b1bce9d88003	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.9953978447
+bfb2ed4f6db01a88b0c9c38933e304bc	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.8590162776
+c01bcd0fce78cbb3e5f12440aeec6aa2	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.92430191
+c07ef20fbf08691cd223cba17009e12f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999999768
+c0b31b31a1d47acfa4b2a6b279ee631b	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999893246
+c11bde1138eb7f51d914cd1bb5f30100	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.997311432
+c162a4f3943238810eba8a25f0563cca	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus	0.9569318196
+c1aac0eaf4f7245f30c20993a7a3e946	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999988626
+c2cac7ce4200877d49ef4a0f53183000	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9995857945
+c3081b30363fb1adeb7f42d4d55f50ea	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9996417363
+c348a7cc121fa43fb14ca92cc4273c2e	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	reuteri	0.9869957377
+c3e85f243577dfabe53528f7dc61baf7	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9587233765
+c45c5ccfab72e9c2ebe81d962c87898c	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9178019129
+c4aaa26ed7f1e968bf0711371919740b	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8714230953
+c532e7d37c9122d2d87eba4c98fccd8d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9787714916
+c59c1588015eaed048e90d3c12c9e5ba	Bacteria	Firmicutes	Clostridia	Clostridiales	Dehalobacteriaceae	Dehalobacterium		0.9999894391
+c78b3268eded0d5cb57b376d7e019942	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999470197
+c89778a6adac9d453c87aa7667a8b971	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9344874227
+c8cc513703d3c6e98b095e9458f1313c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7164485892
+c8f537371557f6bdf4ff1abf6484270f	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9059576786
+c9644b472d8c58ba257a45faccdbca76	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9685685885
+c97f577ac90dee06e2b4f9a17522ef28	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9999869366
+ca254571100fa8454e693e6f6c887cd3	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9993512032
+cb1fbebd25000bcf1dd14227d2578c70	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.970576576
+cb2c39a535860df1e0e9e88cb7888f38	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999655232
+cbb8942a79c06d53241da3fe41bc611e	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		0.7044415431
+cbe4b18d3c874a653e61c56ff93b5817	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9759231696
+cc5053e42aed78a5968b6bc8895dde7c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9996464846
+cdbb43f4e3e74c239f303739ee58369a	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999721746
+cddafb8f3fc6a470bde9de3a04d7bda6	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus		0.9782880123
+ce1e70b616c45b2c333e2242260a38eb	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9674789731
+ce2c0197c761904e62060686ada34ab3	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9994911099
+ce7fbebf6653823170f11ba99b75ee39	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7918604246
+d07eab0ee7cfa68bf60b431ee4f6cf17	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9987691463
+d14f1aea70f7b49dce8305741dca3b0e	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.7137317909
+d208cad7c585049e04076ac7df960e7f	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9986737547
+d221616aeb116902a5b370ca40d1596b	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9978120504
+d24e113cd61ef8841d9b05596920d4d8	Bacteria	Cyanobacteria	4C0d-2	YS2				0.9999998953
+d285590b127f550f49e66e5afa24f849	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9992875767
+d3211b7a04e5fb36a383450b8f5710e2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9995371872
+d32b4b85f78eb17fdd909e32e688622a	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999962636
+d3b48c7a979c5ef203ff9beda3a426d8	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7246959418
+d46ee2038a931bd556d417f529c4429c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9993748292
+d55aec9ec60a4e3097c3c3953dae8773	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999999353
+d59e97fb048a33948cdd04847f8fa75d	Bacteria	Tenericutes	Mollicutes	RF39				0.9999971752
+d70b980ba7aa62881f84310970f48f96	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	muciniphila	1
+d74f1516c10f97cb6c041acd9d735390	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9633265124
+d798e457bac181da375fda211bfff97f	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.99988489
+d79bb5d81b2a330fb43a44dc5228799f	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus	gnavus	0.9999797917
+d8d245eeca388883a82aaa3d47c73e96	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae			0.7527425164
+d9922d89754b3a143fa01c2e79aad881	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7711268282
+db2f4634be3ae90a3bee2ebabe4bb962	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	cc_115		0.9294388584
+dbc6fe945cfb118fe959a6d580e1746d	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9737935092
+dd4c6a1d6cb7e77c0253cbc6c9b4ae75	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.98622035
+dd5c081ff462752e95dd30d7f4e4bb9f	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9999493246
+ddbefff2496ee051e3b7fa0db755a2ca	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		0.9822019227
+de8dcc7acd7aa0be8261ca8418260120	Bacteria	Tenericutes	Mollicutes	RF39				0.9999999519
+e014a27d4beb4fa63a394ae8a839d185	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999993994
+e02d67fbaea4da64b386b48e2c03c295	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae			0.9940526281
+e0b9a1ec5541f44f2d1e4c642a0271f6	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9817121042
+e0c1f3f16096c3eae6b6c689f495adc3	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999994725
+e1004e1d3b9dc863b14289686d8aca9a	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.7977496073
+e11c23cbd3bb0c8a0774162181a15580	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9962885324
+e1b7f3093411de2d7561b264369f6b32	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8461561432
+e258e7e8fc021e4355aef4f0c4761161	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9920301422
+e25ebb2cffe4b93a9cf27238776f27fe	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9170606769
+e260063eafa080a6de25179987260a1d	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9999950191
+e3cff5bbbc9580d9a88a4472fedbc785	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae			0.7509329994
+e3d08a3cbdcf35b09eebcd6001845a97	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8848110975
+e42e3696b6f82035aaf2e58c07d3846c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9702495021
+e434c6c005de19f421775a70181884e1	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9990948945
+e594d55f3895dae437dfbfc31c268e07	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.8760377325
+e5ea23373104201e1626312061360e51	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9171129413
+e661a662dbb171e040738a99542c7e1f	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999990071
+e7037dc2701d6b9666d2c0dab6110ae7	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9992070044
+e7130cf91f8a8117557abcdb0d757d54	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999884423
+e7bcb5e95b42c98c077b100ae4a9a5ed	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.865795286
+e7ce40b96326b4c45cce49ae3d286a0b	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum		0.9941595458
+e84bea8ae61342674744560dd7de4721	Bacteria	Cyanobacteria	4C0d-2	YS2				0.9999999903
+e8b1ac379291fd9d1a6e9de8a7d88086	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999992582
+e94776066de6ff852fc7a43e7a0626cd	Bacteria	Firmicutes	Clostridia	Clostridiales				0.8599245379
+ea0217db29571d2d316a1e4da56b8a01	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales				0.9329101997
+ea298a4489230dca9c52845c38ac88d2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999963859
+ea2b0e4a93c24c6c3661cbe347f93b74	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis	0.9996106412
+eb019512ba2ddaa5fc1bcd170f2cef7f	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9990665456
+ebbd095037fc8c5792965c71d58966d8	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7144845362
+ec5422754ee501aed30cb749508c3cb2	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae			0.9764200093
+ec9f5a2967674e2f90ea3954e2944145	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9999899454
+ed7a65083c92c85576b08842b31a3854	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9981371669
+ed7a767b5c636310d62d120f2add8934	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999999627
+eda770fe4e953ab4b76d431a5c1b814d	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7342514431
+ee2052989472461b79ea2307d1f6536e	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999080313
+ef467d766ba05adf651d1fc6a30cba06	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9732254645
+ef53d3c1647ea09b6bbc072b22fbe8cc	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999975914
+ef832aa9271ed06d6bdf1138d1d00dca	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.858416602
+ef919b14f19cdd6de4121350a2c4fc2f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9001679689
+f002e38adcccc245fb0102cd84080014	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9933695229
+f0ea5c31476ee230236531fe568de02d	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9987650939
+f140b0a0e494958baea9d5d5443ef092	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9629511764
+f184a6921fac75ed620980fdf9af1194	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9977064763
+f2b2d019610029f45bb60f4f8ccc81d2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999844623
+f2e9339c50a843dc2a7225694879c396	Bacteria							0.9914171482
+f31aab4ff2dba1e72d9ea251e447844d	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999997018
+f3f979bdba595bc673cd646533a78894	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9606134695
+f44868f6f3630c085ff385f365b0ef43	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.997434709
+f48a1f611db9718c81bbfbd38ab655f3	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		0.7068994501
+f4e1150cd7de43776b87bcd09f13d9de	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9093571622
+f4f473da7f84db704155252cbfd05a7c	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus		0.9997088196
+f526010a8f9e7089f3287a43668dc69f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9991478309
+f5487404313a4fb57bc3489c167e9a37	Bacteria	Firmicutes	Clostridia	Clostridiales				0.7444968644
+f67ad55badd81886f283f3fc150c90d8	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9851262251
+f7fe5299945864c5d7dc0826c042050f	Bacteria	Firmicutes	Clostridia	Clostridiales				0.9989056279
+f80a17436037d706dc728dd265b7c21e	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.999999961
+f884312e6325827805ad335881c179a9	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999833741
+f95ce8689699c6a80f61073b398344dd	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		0.9993893124
+f9b61c80a16264decfa549e46d36e85c	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9373110392
+f9f5f08e8da4cc9740518223846563db	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999987299
+fa497f30b989faffb3d077709fcf1a6e	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7			0.9999698623
+fa73fd704b69299aad7876bb8b76ad7a	Bacteria	Firmicutes	Clostridia	Clostridiales				0.999999254
+fb492255c795ab71648d7ae1d6c9c445	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus		0.9986373433
+fb81602acb8d3401b959f0d3f856dfc3	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia		0.9483504856
+fba43f263a40d5a9cc7f37f1551b13f9	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			0.9507751624
+fcfab546634e10be9800b9a4118b8dc9	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus		0.9999521297
+fcfe3e5b39d6c70547d6c53992d91196	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9841061893
+fd2add809dda466e31e079b2424ad390	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9934365849
+fd4f6fe7ee8ad672b0d98e405fcb151f	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae			0.9999957565
+fdc1429203b8620199f5ffbd11c315f9	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.999940003
+fdf5dcbf4921f80ab096d659e2b798da	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			0.9953130191
+ff0def5aaf60dc65a3225b810166b12e	Bacteria							0.9963898931
+ff7ecf5763fe19af8b052db1c7ab0eb0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira		0.9998820953
+ffc98387f444f4fbd6f9cecf911f90c5	Bacteria							0.9984819958
